@@ -1,0 +1,4 @@
+INFO:root:Test case 1
+INFO:root:PASS
+INFO:root:Test case 2
+ERROR:root:FAIL
